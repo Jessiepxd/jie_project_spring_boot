@@ -1,0 +1,48 @@
+body {
+    width: 50%;
+    margin: 2%;
+}
+
+.button-style {
+    background-color: #1e8bff;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.button-style-gohome {
+    background-color: #8e7dbe;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.button-style-logout {
+    background-color: #ffc107;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 10px 0;
+}
+
+.button-style-add {
+    background-color: #28a744;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin: 10px 0;
+}
